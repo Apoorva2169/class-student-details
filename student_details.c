@@ -137,7 +137,7 @@ void student_APEKSHA_D_H() {
 }
 
 void student_APOORVA_A() {
-    printf("APOORVA A is absent\n");
+    printf("APOORVA A is present\n");
 }
 
 void student_ARSHIYA_KHANUM() {
